@@ -1,16 +1,14 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "first_name": "Akhil",
+      "last_name": "Chandran",
+      "email": "akhil@gmail.com",
+      "gender": "M",
+      "password": "creator@123",
+      "description": "Akhil",
+      
     },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
   ]
 }
